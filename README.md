@@ -40,8 +40,8 @@
 
 ## 🏆 Competitive Programming
 
-- ✅ **CodeChef**: 3⭐[1607 Rating (Peak 1612)](https://www.codechef.com/users/nish_sethi)
-- ✅ **Codeforces**: [1087 Rating (Peak 1212)](https://codeforces.com/profile/Nishsethi)
+- ✅ **CodeChef**: 3⭐[1653 Rating (Peak 1653)](https://www.codechef.com/users/nish_sethi)
+- ✅ **Codeforces**: [1352 Rating (Peak 1352)](https://codeforces.com/profile/Nishsethi)
 - ✅ **LeetCode**: [1699 Rating](https://leetcode.com/nishsethi/)
 
 ---
