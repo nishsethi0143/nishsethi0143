@@ -42,7 +42,7 @@
 
 - ✅ **CodeChef**: 3⭐[1653 Rating (Peak 1653)](https://www.codechef.com/users/nish_sethi)
 - ✅ **Codeforces**: [1352 Rating (Peak 1352)](https://codeforces.com/profile/Nishsethi)
-- ✅ **LeetCode**: [1699 Rating](https://leetcode.com/nishsethi/)
+- ✅ **LeetCode**: [1699 Rating](https://leetcode.com/u/nish_sethi2/)
 
 ---
 
