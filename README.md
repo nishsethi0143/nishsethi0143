@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nish Sethi</h1>
-<h3 align="center">2nd Year | IIT (ISM) Dhanbad | Cybersecurity + AI/ML | Building PhishSense AI | Open Source</h3>
+<h2 align="center">2nd Year | IIT (ISM) Dhanbad | Cybersecurity + AI/ML | Building PhishSense AI | <br> ICPC Asia West Regionalist 2025 | Open Source</h2>
 
 ---
 
