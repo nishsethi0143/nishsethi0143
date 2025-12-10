@@ -60,7 +60,6 @@
 
 - ✅ **Fake News Detection using NLP** (TF-IDF + RandomForest + XGBoost)
 - ✅ **Fraud Detection System** (SMOTE + Logistic Regression + ROC/AUC)
-- 📌 To be uploaded on GitHub on 1 Sep 2025.
 
 ---
 
