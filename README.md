@@ -10,10 +10,7 @@
 ---
 
 ## 🔭 Currently Working On:
-- 🚀 **PhishSense AI**: AI-powered phishing detection & cloud incident response platform.
-- 🛡️ **AuthGuard**: MFA bypass & session hijack simulation toolkit.
-- 📱 **Android ExploitLab**: Automating OWASP M1-M10 vuln checks for Android apps.
-- 🧠 **VulnHawk**: GitHub bot to auto-patch CVEs in CI/CD pipelines.
+- 🚀 **PhishSense AI**: AI-powered phishing detection & cloud incident response platform. (Team Project)
 
 ---
 
