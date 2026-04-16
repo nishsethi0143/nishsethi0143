@@ -37,15 +37,14 @@
 
 ## 🏆 Competitive Programming
 
-- ✅ **CodeChef**: 3⭐[1669 Rating (Peak 1669)](https://www.codechef.com/users/nish_sethi)
-- ✅ **Codeforces**: (Pupil)[1381 Rating (Peak 1381)](https://codeforces.com/profile/Nishsethi)
+- ✅ **CodeChef**: 4⭐[1920 Rating (Peak 1920)](https://www.codechef.com/users/nish_sethi)
+- ✅ **Codeforces**: (Expert)[1792 Rating (Peak 1792)](https://codeforces.com/profile/Nishsethi)
 - ✅ **LeetCode**: [1699 Rating](https://leetcode.com/u/nish_sethi2/)
 
 ---
 
 ## 🕵️ Cybersecurity
 
-- 🔐 **TryHackMe**: [nishsethi](https://tryhackme.com/p/nishsethi) – Working on real-world labs and CTFs
 - ✅ Completed **DVWA**, **InsecureBankv2**, and **Autopsy CTFs**
 - 👷 Intern Projects:
   - Mobile App Security Testing Framework
